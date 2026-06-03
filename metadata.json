@@ -1,0 +1,6 @@
+{
+  "name": "عيادة الدكتور شريف حسين",
+  "description": "المنصة الطبية الرسمية لعيادة الدكتور شريف حسين - استشاري القلب والأوعية الدموية والقسطرة التداخلية في مصر والخليج",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
